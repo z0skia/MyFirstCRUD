@@ -1,2 +1,2 @@
-# Entrega1Hernandez
-Desafío para Coder
+# MY FIRST CRUD
+This is my first CRUD in django. 
